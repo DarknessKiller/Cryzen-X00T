@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Cryzen R1 - We Need Moar Power!
+kernel.string=Cryzen R2 - Long Term Version
 do.devicecheck=1
 do.modules=0
 do.systemless=1
